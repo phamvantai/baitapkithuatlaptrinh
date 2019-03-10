@@ -1,4 +1,4 @@
 print("Hello,world")
-print("Ho ten : Lam Van Ngoc")
-print("MSSV: 1755251030100015")
+print("Ho ten : Pham Van Tai ")
+print("MSSV: 1755251030100025")
 print("Nganh hoc: CNKT Dien,dien tu")
